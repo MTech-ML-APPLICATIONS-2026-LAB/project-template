@@ -4,7 +4,7 @@
 - Course: ML & Applications Lab
 - Programme: M.Tech (Data Science / AI-ML)
 - Assessment: A8 / A9 / A10
-- Faculty: Dr. [Name]
+- Faculty: Dr. Sanjiban S Roy
 
 ## Group Members and Contribution (mandatory – all members)
 | # | Name | Register Number | Contribution (what this member did) |
